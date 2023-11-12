@@ -5,7 +5,7 @@ name: imaotai-action
 
 on:
   schedule:
-    - cron: "0,40 * * * *"
+    - cron: "1,10 1 * * *"
 
 env:
   TZ: Asia/Shanghai
